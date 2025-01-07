@@ -16,4 +16,4 @@
 -egyszerű célkereszt
 
 
-kell: muzzle flash
+kell: muzzle flash, gun.cs, gunshoot.cs, target.cs
