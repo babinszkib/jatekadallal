@@ -17,7 +17,7 @@
 
 4.
 
-3-d modellek, pálya, két kéz model balba sör, jobb csak üres target, ami adott radiuson belül spawnol 5-ös y magasságban, gunshoot, hogy kilehessen azt lőni (destroyolja és spawnol újra)
+-3d modellek, pálya, két kéz model balba sör, jobb csak üres target, ami adott radiuson belül spawnol 5-ös y magasságban, gunshoot, hogy kilehessen azt lőni (destroyolja és spawnol újra)
 
 5.
 
@@ -30,7 +30,7 @@
 
 7. 
 
-main főmenü scenevel, menü design, play button funkció elkészítése(scenemanager)
+-main főmenü scenevel, menü design, play button funkció elkészítése(scenemanager)
 
 
 kell: muzzle flash,
