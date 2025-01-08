@@ -15,5 +15,22 @@
 -ui panel ami inaktív, a játék végén jelenik meg ahol majd lehetőség lesz újra indítani a játékot illetve meglehet tekinteni az elért pontszámaidat
 -egyszerű célkereszt
 
+4.
 
-kell: muzzle flash, gun.cs, gunshoot.cs, target.cs
+3-d modellek, pálya, két kéz model balba sör, jobb csak üres target, ami adott radiuson belül spawnol 5-ös y magasságban, gunshoot, hogy kilehessen azt lőni (destroyolja és spawnol újra)
+
+5.
+
+-3d modellekhez textura keresés, új fps mód, hozzá új mozgás
+
+6. 
+
+-targethez pontszám, timer hozzáadás, illetve ha vége az időnek akkor feldob egy restart panelt ami lenullázza a pontomat és az időt újra elindítja
+-3d kéz render
+
+7. 
+
+main főmenü scenevel, menü design, play button funkció elkészítése(scenemanager)
+
+
+kell: muzzle flash,
