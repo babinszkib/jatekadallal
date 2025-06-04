@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 809c2999281084443a13be5106c1b43e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Rocket Command
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3e3b37d4d1e3d2f498202669794885be, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
